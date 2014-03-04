@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/JamieMason/gulp-imageoptim/issues"
   },
-  "homepage": "https://github.com/JamieMason/gulp-imageoptim"
+  "homepage": "https://github.com/JamieMason/gulp-imageoptim",
+  "keywords": [
+    "gulpplugin"
+  ]
 }
